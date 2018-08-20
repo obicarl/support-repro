@@ -1,0 +1,10 @@
+# Compiled files
+*.terraform
+*.tfstate
+*.tfstate.backup
+*.tfstate.*.backup
+
+# vim
+*~
+*.swp
+*.swo
